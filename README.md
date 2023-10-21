@@ -1,3 +1,10 @@
+GROUP INFORMATION:
+Arkin Vermna 
+Kenzo Lobo (UCI ID: 44749034)
+Joana Ugarte
+
+
+
 ABOUT
 -------------------------
 This is the base implementation of a full crawler that uses a spacetime
