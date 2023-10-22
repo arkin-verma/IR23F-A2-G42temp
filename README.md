@@ -1,7 +1,7 @@
 GROUP INFORMATION:
 Arkin Vermna 
 Kenzo Lobo (UCI ID: 44749034)
-Joana Ugarte
+Joana Ugarte (UCI ID: 44875730)
 
 
 
