@@ -1,7 +1,7 @@
 GROUP INFORMATION:
-Arkin Verma (UCI ID: 18213040)
-Kenzo Lobo (UCI ID: 44749034)
-Joana Ugarte (UCI ID: 44875730)
+Arkin Verma (UCI ID: X)
+Kenzo Lobo (UCI ID: X)
+Joana Ugarte (UCI ID: X)
 
 
 
